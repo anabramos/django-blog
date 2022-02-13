@@ -1,0 +1,1 @@
+web: gunicorn anas-django-blog.wsgi
